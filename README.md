@@ -20,6 +20,8 @@ Perhaps next time I'll implement a framework, but I'm actually quite proud of ho
 
 I may come back here to edit things here and there, IDK, but for now I'm pretty happy with it!
 
+PS: The page is NOT responsive as now, but that will probably be one of the next edits I make to this, but in the meantime back to codecamp I go!
+
 # Tools used in this Project
 
 - HTML
